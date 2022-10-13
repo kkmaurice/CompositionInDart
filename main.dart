@@ -10,6 +10,7 @@ void main() {
    course.book.name = 'Introduction to C';
   // print(course.book.name);
   print(course.instructor.name);
+  print(course.instructor.age);
   print(course);
   print(course.book.isbn);
 }
